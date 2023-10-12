@@ -1,7 +1,6 @@
 {
-  "name": "fast-text-encoding",
+  "name": "@pacoyang/fast-text-encoding",
   "version": "0.0.1",
-  "private": "true",
   "description": "Build package for fast-text-encoding, should not be published",
   "main": "text.min.js",
   "repository": "https://github.com/samthor/fast-text-encoding.git",
